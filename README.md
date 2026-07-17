@@ -214,7 +214,7 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 <p align="center">
   <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
   <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6" /></a>
-  <a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
+  <a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-laraib15869@gmail.com?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
   <a href="TWITTER_URL"><img src="https://img.shields.io/badge/Twitter%20/%20X-000000?style=for-the-badge&logo=x&logoColor=8B5CF6" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-DISCORD_USERNAME-000000?style=for-the-badge&logo=discord&logoColor=8B5CF6" /></a>
   <a href="LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8B5CF6" /></a>
@@ -223,8 +223,6 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
   <a href="MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=8B5CF6" /></a>
   <a href="DEVTO_URL"><img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=8B5CF6" /></a>
 </p>
-
-> ⚠️ **Note:** All social links above are placeholders (e.g. `LINKEDIN_URL`, `EMAIL_ADDRESS`). Replace them with your real profile URLs — simply edit the `href` values in the raw markdown.
 
 <br/>
 
