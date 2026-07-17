@@ -131,26 +131,6 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Laraib481&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Laraib481/Laraib481/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> 💡 The snake animation above requires a one-time GitHub Actions setup. See the setup note at the bottom of this file.
-
 <br/>
 
 ## 🚀 Featured Projects
@@ -214,7 +194,7 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 <p align="center">
   <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
   <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6" /></a>
-  <a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-laraib15869@gmail.com?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
+  <a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
   <a href="TWITTER_URL"><img src="https://img.shields.io/badge/Twitter%20/%20X-000000?style=for-the-badge&logo=x&logoColor=8B5CF6" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-DISCORD_USERNAME-000000?style=for-the-badge&logo=discord&logoColor=8B5CF6" /></a>
   <a href="LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=8B5CF6" /></a>
