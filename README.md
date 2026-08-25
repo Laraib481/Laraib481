@@ -159,20 +159,28 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
       <a href="https://github.com/Laraib481/Beatly.L">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧩 DevHub — Developer Collaboration Platform</h3>
+      <h3>💻 DevHub — Developer Collaboration Platform</h3>
       <p>
-        A collaboration platform built for developers to connect, share, and work together, powered by a full MERN stack backend.
+        A full-stack developer collaboration platform designed to help developers connect, share, and collaborate through a modern web application.
       </p>
-      <p align="center">
-        <a href="https://github.com/Laraib481/DevHub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraib481&repo=DevHub&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" width="100%"/>
-        </a>
-      </p>
+      <ul>
+        <li>👤 User authentication &amp; account management</li>
+        <li>🔐 JWT-based authentication</li>
+        <li>👨‍💻 Developer-focused profiles &amp; collaboration</li>
+        <li>📝 Content/post sharing functionality</li>
+        <li>🔎 Search and discovery</li>
+        <li>🌐 RESTful API architecture</li>
+        <li>🔄 Frontend–backend API integration</li>
+        <li>🚀 Deployed full-stack architecture</li>
+      </ul>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
       <a href="https://github.com/Laraib481/DevHub">🔗 View Repository</a>
     </td>
