@@ -39,58 +39,58 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/MVC_Architecture-000000?style=for-the-badge&logo=readthedocs&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC_Architecture-4B0082?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </p>
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
 ### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### AI & Prompt Engineering
 <p>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/AI_Integration-000000?style=for-the-badge&logo=OpenAI&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/ChatGPT_API-000000?style=for-the-badge&logo=openai&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge&logo=googlegemini&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/LLM_Applications-000000?style=for-the-badge&logo=OpenAI&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### Developer Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 <br/>
@@ -98,13 +98,13 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 ## 🌱 Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Advanced_React-8B5CF6?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-8B5CF6?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud_Deployment-8B5CF6?style=flat-square&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-8B5CF6?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_Databases-8B5CF6?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Databases-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Systems-8B5CF6?style=flat-square&logo=readthedocs&logoColor=white" />
 </p>
 
@@ -123,7 +123,7 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laraib481&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&ring=8B5CF6"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraib481&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com?user=Laraib481&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com?user=Laraib481&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laraib481&theme=react-dark&hide_border=true&bg_color=0D0221&color=8B5CF6&line=8B5CF6&point=ffffff" width="100%"/>
 
@@ -131,51 +131,53 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 
 <br/>
 
-<br/>
-
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Laraib481/DevHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraib481&repo=DevHub&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Laraib481/Beatly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraib481&repo=Beatly&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
-</a>
-<br/>
-<a href="https://github.com/Laraib481/AI-Flight-Booking-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraib481&repo=AI-Flight-Booking-System&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Laraib481/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraib481&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>📁 Project Details (click to expand)</b></summary>
-<br/>
-
-**🔹 DevHub** — Developer Collaboration Platform
-`React` `Node.js` `Express` `MongoDB`
-🔗 [Repository](https://github.com/Laraib481/DevHub)
-
-**🔹 Beatly** — Modern Music Streaming Platform
-`React` `Node.js` `MongoDB` `ImageKit`
-🔗 [Repository](https://github.com/Laraib481/Beatly)
-
-**🔹 AI Powered Flight Booking System**
-`React` `Node.js` `AI Integration`
-🔗 [Repository](https://github.com/Laraib481/AI-Flight-Booking-System)
-
-**🔹 Portfolio Website**
-`React` `Tailwind CSS`
-🔗 [Repository](https://github.com/Laraib481/Portfolio)
-
-</details>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 Beatly — Music Streaming Platform</h3>
+      <p>
+        A full-stack music streaming platform that lets users discover and listen to music, while giving artists a dedicated dashboard to upload and manage their songs.
+      </p>
+      <ul>
+        <li>🎵 Music discovery &amp; streaming</li>
+        <li>🔐 JWT authentication</li>
+        <li>👤 Separate User &amp; Artist dashboards</li>
+        <li>🎤 Artist music upload functionality</li>
+        <li>☁️ ImageKit integration for media uploads</li>
+        <li>🔎 Music search functionality</li>
+        <li>⚡ RESTful backend APIs</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/ImageKit-3E7DFF?style=flat-square&logo=imagekit&logoColor=white" />
+      </p>
+      <a href="https://github.com/Laraib481/Beatly">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 DevHub — Developer Collaboration Platform</h3>
+      <p>
+        A collaboration platform built for developers to connect, share, and work together, powered by a full MERN stack backend.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Laraib481/DevHub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Laraib481&repo=DevHub&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" width="100%"/>
+        </a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://github.com/Laraib481/DevHub">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -192,10 +194,10 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
-  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6" /></a>
-  <a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
-  <a href="Coursera"><img src="https://img.shields.io/badge/Twitter%20/%20X-000000?style=for-the-badge&logo=x&logoColor=8B5CF6" /></a>
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="TWITTER_URL"><img src="https://img.shields.io/badge/Twitter%20/%20X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 <br/>
