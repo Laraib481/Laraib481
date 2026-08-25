@@ -156,7 +156,7 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
         <img src="https://img.shields.io/badge/ImageKit-3E7DFF?style=flat-square&logo=imagekit&logoColor=white" />
       </p>
-      <a href="https://github.com/Laraib481/Beatly">🔗 View Repository</a>
+      <a href="https://github.com/Laraib481/Beatly.L">🔗 View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧩 DevHub — Developer Collaboration Platform</h3>
