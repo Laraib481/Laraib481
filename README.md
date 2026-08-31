@@ -184,6 +184,28 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
       </p>
       <a href="https://github.com/Laraib481/DevHub">🔗 View Repository</a>
     </td>
+     <td width="50%" valign="top">
+  <h3>🛍️ LS Fashion Store — Headless E-Commerce Platform</h3>
+  <p>
+    A luxury, mobile-responsive headless e-commerce store built with React and powered by the Shopify Storefront GraphQL API. Features real-time inventory synchronization, dynamic collection filtering, and smooth navigation.
+  </p>
+  <ul>
+    <li>👗 Real-time Shopify Storefront GraphQL API integration</li>
+    <li>📱 Fully responsive layout with glassmorphic navbar</li>
+    <li>✨ Dynamic collection tabs &amp; category spotlights</li>
+    <li>🛒 Live cart state &amp; dynamic badge notifications</li>
+    <li>⚡ Fast client-side routing &amp; fallback data state</li>
+    <li>🎨 Modern, high-end luxury UI/UX styling</li>
+  </ul>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  </p>
+  <a href="https://github.com/Laraib481/LS-Fashion-Store">🔗 View Repository</a>
+</td>
   </tr>
 </table>
 
