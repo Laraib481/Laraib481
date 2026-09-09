@@ -208,7 +208,27 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
       </p>
       <a href="https://github.com/Laraib481/LS-Fashion-Store">🔗 View Repository</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🎓 Portfolio & Verified Credentials Showcase</h3>
+      <p>
+        A modern, interactive Portfolio & Verified Credentials Showcase built to display computer science achievements, certificates, and project specializations, with a fully responsive UI and smooth animations.
+      </p>
+      <ul>
+        <li>🖥️ Smooth desktop scroll-driven animations</li>
+        <li>📱 Hardware-accelerated touch swipe layout for mobile</li>
+        <li>📄 Live PDF certificate preview modals</li>
+        <li>📰 Dynamic marquee banners for credentials</li>
+        <li>🏆 Showcases achievements, certificates &amp; specializations</li>
+        <li>🎨 Fully responsive, polished UI/UX</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      </p>
+      <a href="https://github.com/Laraib481/laraib-portfolio">🔗 View Repository</a>
+    </td>
   </tr>
 </table>
 
