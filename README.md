@@ -116,8 +116,6 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 
 <br/>
 
-## 📊 GitHub Statistics
-
 ## 💼 Professional Snapshot
 
 <div align="center">
