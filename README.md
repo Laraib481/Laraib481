@@ -118,18 +118,38 @@ I am a passionate **Full Stack Software Developer** specializing in modern web t
 
 ## 📊 GitHub Statistics
 
+## 💼 Professional Snapshot
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laraib481&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&ring=8B5CF6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laraib481&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=8B5CF6&text_color=c9d1d9"/>
-
-<img src="https://streak-stats.demolab.com?user=Laraib481&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Laraib481&theme=react-dark&hide_border=true&bg_color=0D0221&color=8B5CF6&line=8B5CF6&point=ffffff" width="100%"/>
+<img src="https://img.shields.io/badge/Working%20Professionally-Since%202024-8B5CF6?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Full%20Stack-Development-8B5CF6?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/AI%20Integration-Engineering-8B5CF6?style=for-the-badge&labelColor=0D0221" />
 
 </div>
 
 <br/>
+
+* 💻 **Working in Web Development since 2024**, building responsive websites and full-stack applications.
+* 🤝 **Client Communication & Requirement Handling** — understanding client needs, discussing requirements, and translating ideas into practical solutions.
+* 🧩 **End-to-End Project Handling** — from planning and UI development to backend APIs, database integration, testing, and deployment.
+* 🌐 **Full-Stack Development** — experienced with React, Node.js, Express.js, MongoDB, REST APIs, authentication, and modern frontend technologies.
+* 🛍️ **E-Commerce Development** — Shopify customization and headless e-commerce development using Storefront GraphQL.
+* 🤖 **AI Integration** — exploring and integrating AI APIs, prompt engineering, LLM-powered features, and AI-driven applications.
+* 🚀 **Deployment & Debugging** — deploying full-stack applications and resolving frontend, backend, API, authentication, and production issues.
+* 🛠️ **Problem Solving** — comfortable debugging real-world application issues and improving existing implementations.
+* 📱 **Responsive UI/UX** — building modern interfaces optimized for desktop, tablet, and mobile devices.
+
+<br/>
+
+<div align="center">
+
+### 🧠 What I Bring
+
+`Client Communication`  •  `Requirement Analysis`  •  `Problem Solving`  •  `Full-Stack Development`  •  `API Integration`  •  `Database Design`  •  `Deployment`  •  `AI Integration`
+
+</div>
+
 
 ## 🚀 Featured Projects
 
